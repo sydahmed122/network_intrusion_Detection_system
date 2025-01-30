@@ -23,7 +23,7 @@
 - apache2 service to run a web app in ubunutu server.
 
 
-## Guide:
+## Guide for Windows User:
 
 1. First Install VirtualBox (Follow The official instruction from kali docs )
    - https://www.kali.org/docs/virtualization/install-virtualbox-host/
@@ -137,7 +137,7 @@ The SNORT rule language determines which network traffic should be collected and
 
 #### In the installation to be done on the Ubuntu 17.04 in the virtual machine, we first made machine updates and then went to the installation phase. 
 
-## Install Steps
+## Installation Steps in linux distro
 
 ```
 wget https://www.snort.org/downloads/snort/daq-2.0.7.tar.gz
